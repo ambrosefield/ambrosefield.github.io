@@ -1,2 +1,2 @@
 # ambrosefield.github.io
-experimental research documentation provision.
+nothing to see here (yet)
