@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space-and-Music on Ambrose Field</title>
+    <link>https://ambrosefield.github.io/tags/space-and-music/</link>
+    <description>Recent content in Space-and-Music on Ambrose Field</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://ambrosefield.github.io/tags/space-and-music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantaform Series for Solo Flute in reverberant spaces</title>
+      <link>https://ambrosefield.github.io/research/quantaform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ambrosefield.github.io/research/quantaform/</guid>
+      <description>C Flute, 40 mins duration
+Background and new 2019 Realisation Quantform Series is an unusual 20 movement work for solo flute where each movement is precisely matched to the acoustics of the site in which it is to be performed. Each of the twenty movements is written to match a different acoustic space. The choice of which movements to perform, and in what order, is up to the performer.</description>
+    </item>
+    
+  </channel>
+</rss>
