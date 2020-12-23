@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://ambrosefield.github.io/categories/ar/</loc>
+    <loc>https://ambrosefield.github.io/categories/acoustics/</loc>
     <priority>0</priority>
   </url>
   
@@ -73,7 +73,22 @@
   </url>
   
   <url>
+    <loc>https://ambrosefield.github.io/categories/ar/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ambrosefield.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ambrosefield.github.io/categories/heritage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ambrosefield.github.io/categories/liveart/</loc>
     <priority>0</priority>
   </url>
   
@@ -89,21 +104,6 @@
   
   <url>
     <loc>https://ambrosefield.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ambrosefield.github.io/categories/acoustics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ambrosefield.github.io/categories/heritage/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ambrosefield.github.io/categories/liveart/</loc>
     <priority>0</priority>
   </url>
   
